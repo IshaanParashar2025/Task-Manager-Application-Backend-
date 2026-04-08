@@ -4,7 +4,7 @@ const db = mysql2.createPool(
     {
         host:"localhost",
         user:"root",
-        password:"$trongPassword123",
+        password:"your_password",
         database:"task_manager"
     }
 )
